@@ -16,7 +16,14 @@ __pycache__/
 # CatBoost
 catboost_info/
 
+
 .tools/
 *.txt
 .idea/
+
+frontend/node_modules/
+backend/node_modules/
+
 __pycache__/
+*.pyc
+.env
