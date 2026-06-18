@@ -1,0 +1,17 @@
+# PyCharm
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.pyc
+
+# Model files
+*.pkl
+*.joblib
+
+# Numpy
+*.npy
+
+# CatBoost
+catboost_info/
