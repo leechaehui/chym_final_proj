@@ -67,11 +67,7 @@ boxplots/
 statistical/
 ```
 
----
 
-## 🖥 Dashboard
-
-![Dashboard](model_dashboard.png)
 
 ---
 
